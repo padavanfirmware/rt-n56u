@@ -1,0 +1,5 @@
+| | Filename | Type | Device | Summary | ReleaseDate | Size |
+|:|:---------|:-----|:-------|:--------|:------------|:-----|
+| [![](https://ssl.gstatic.com/codesite/ph/images/dl_arrow.gif)](http://example.com/RT-N56U_3.4.3.7-075_dlna.zip) | [RT-N56U\_3.4.3.7-075\_dlna.zip](http://example.com/RT-N56U_3.4.3.7-075_dlna.txt) | Firmware | RT-N56U | RT-N56U\_3.4.3.7-075 (en-ru). DLNA build | Jan 2014    | 7.5 MB |
+| [![](https://ssl.gstatic.com/codesite/ph/images/dl_arrow.gif)](http://example.com/RT-N65U_3.4.3.7-075_full.zip) | [RT-N65U\_3.4.3.7-075\_full.zip](http://example.com/RT-N65U_3.4.3.7-075_full.txt) | Firmware | RT-N65U | RT-N65U\_3.4.3.7-075 (en-ru). Full build | Apr 2014    | 8.9 MB |
+| [![](https://ssl.gstatic.com/codesite/ph/images/dl_arrow.gif)](http://example.com/asm1042.tar.bz2) | [asm1042.tar.bz2](http://example.com/asm1042.txt) | Archive | RT-N65U | USB3 AsMedia ASM1042 firmware 130125\_00\_02\_00 for Asus RT-N65U  | Jan 2014    | 116 KB |
